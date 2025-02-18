@@ -1,2 +1,2 @@
 <div><img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=Resuwu&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" />
-<img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Resuwu&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" /></div>
+<img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Resuwu&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&hide=css,scss,html" /></div>
